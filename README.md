@@ -19,12 +19,12 @@ This project integrates several industry-standard libraries, each chosen for a s
 | **Dotenv** | Security | Decouples sensitive credentials from the source code using Environment Variables. |
 
 
-## 🧠 The AI Pipeline (BART Model)
+## The AI Pipeline (BART Model)
 Unlike simple "extractive" scripts that just copy the first three sentences of an article, this engine uses **Abstractive Summarization**. 
 * **The Process:** The text is tokenized into numerical vectors, processed through a 1.6GB neural network, and decoded back into English.
 * **The Result:** A synthesized "Synopsis" that understands context and rewrites the news in a condensed format.
 
-## ⚙️ Setup & Installation
+## Setup & Installation
 
 ### 1. Environment Configuration
 Ensure you have Python 3.10+ installed. Clone the repository and install the dependencies:
