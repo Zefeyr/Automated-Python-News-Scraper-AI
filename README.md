@@ -1,4 +1,4 @@
-# Automated-Python-News-Scraper-AI
+# Automated Python News Scraper AI
 A high-performance automated Python news intelligence pipeline that retrieves, summarizes, and delivers top tech news from Hacker News and utilizes the BART Transformer model for real-time abstractive summarization and email delivery.
 
 ## The Mission
